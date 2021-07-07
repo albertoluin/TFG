@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = empty-project-type
+recent_files = ['approximationLib\\graphProblems.py', 'pruebas_grafos.py', '..\\..\\..\\..\\anaconda3\\lib\\pprint.py', '..\\..\\..\\..\\anaconda3\\lib\\copy.py', 'pruebas.py', 'tests\\test_knapsack.py', '..\\pruebaGenetico.py', 'approximationLib\\knapsack.py', 'knapsack_comparison.py', 'knapsack_algoritms_comparison.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
